@@ -1,0 +1,25 @@
+Functions Implemented
+    Node() constructors
+    LinkedList() constructor
+    LinkedList() deconstructor
+    Node* get_head()
+    void push_front()
+    void push_back()
+    Node* at(int index)
+    int size()
+    bool remove(int index)
+    void print()
+    double search()
+    void insert(int key, double value, int index)
+    bool remove_key(int key)
+    bool remove_value(double value)
+    void selection_sort()
+
+To Do
+    $$$ get all functions working
+    $$$ write tests for every function
+    $$$ solve problem 1
+    $$$ solve problem 2
+    $$$ solve problem 3
+    $$$ write Specifications.pdf
+    $$$ write Report.pdf
